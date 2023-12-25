@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1703207465853,
+      "tag": "0000_safe_gorilla_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1703450748129,
+      "tag": "0001_far_kulan_gath",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1703477098996,
+      "tag": "0002_amused_harpoon",
+      "breakpoints": true
+    }
+  ]
+}
