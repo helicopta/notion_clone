@@ -15,6 +15,9 @@
     "up": "drizzle-kit up:pg"
   },
   "dependencies": {
+    "@radix-ui/themes": "^2.0.3",
+    "@supabase/auth-helpers-nextjs": "^0.8.7",
+    "@supabase/supabase-js": "^2.39.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "dotenv": "^16.3.1",
